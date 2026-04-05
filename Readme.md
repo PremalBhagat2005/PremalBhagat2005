@@ -43,7 +43,8 @@
   <img height="40px" src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"/>&nbsp;&nbsp;
-  <img height="40px" src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs" title="Nodejs"/>&nbsp;&nbsp;
+  <img height="40px" src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" title="anaconda"/>&nbsp;&nbsp;
+  <img height="40px" src="https://skillicons.dev/icons?i=gcp" alt="gcp" title="gcp"/>&nbsp;&nbsp;
 </p>
 
 ## 📊 GitHub Stats
