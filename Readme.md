@@ -28,7 +28,6 @@
   <img height="40px" src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS"/>&nbsp;&nbsp;
-  <img height="40px" src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript"/>
 </p>
 
