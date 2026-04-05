@@ -36,7 +36,6 @@
 <p>
   <img height="40px" src="https://skillicons.dev/icons?i=pytorch" alt="Pytorch" title="React"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js"/>&nbsp;&nbsp;
-  <img height="40px" src="https://skillicons.dev/icons?i=express" alt="Next.js" title="Express"/>&nbsp;&nbsp;
 </p>
 
 ### Tools & Environment
